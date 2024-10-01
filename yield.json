@@ -1,0 +1,299 @@
+{
+    "crops": [
+      {
+        "name": "Rice",
+        "area_million_hectares": 43,
+        "production_million_tons": 118,
+        "yield_tons_per_hectare": 2.7
+      },
+      {
+        "name": "Wheat",
+        "area_million_hectares": 30,
+        "production_million_tons": 106,
+        "yield_tons_per_hectare": 3.5
+      },
+      {
+        "name": "Maize",
+        "area_million_hectares": 9.6,
+        "production_million_tons": 28.7,
+        "yield_tons_per_hectare": 3.0
+      },
+      {
+        "name": "Barley",
+        "area_million_hectares": 0.7,
+        "production_million_tons": 1.6,
+        "yield_tons_per_hectare": 2.3
+      },
+      {
+        "name": "Sorghum (Jowar)",
+        "area_million_hectares": 4.9,
+        "production_million_tons": 3.8,
+        "yield_tons_per_hectare": 0.8
+      },
+      {
+        "name": "Bajra (Pearl Millet)",
+        "area_million_hectares": 7.5,
+        "production_million_tons": 9.6,
+        "yield_tons_per_hectare": 1.3
+      },
+      {
+        "name": "Ragi",
+        "area_million_hectares": 1.2,
+        "production_million_tons": 2.4,
+        "yield_tons_per_hectare": 2.0
+      },
+      {
+        "name": "Pulses",
+        "area_million_hectares": 29,
+        "production_million_tons": 23.4,
+        "yield_tons_per_hectare": 0.8
+      },
+      {
+        "name": "Sugarcane",
+        "area_million_hectares": 4.9,
+        "production_million_tons": 405,
+        "yield_tons_per_hectare": 82.7
+      },
+      {
+        "name": "Cotton",
+        "area_million_hectares": 12.6,
+        "production_million_bales": 36,
+        "yield_bales_per_hectare": 480
+      },
+      {
+        "name": "Groundnut",
+        "area_million_hectares": 4.7,
+        "production_million_tons": 6.6,
+        "yield_tons_per_hectare": 1.4
+      },
+      {
+        "name": "Soybean",
+        "area_million_hectares": 12.3,
+        "production_million_tons": 13.2,
+        "yield_tons_per_hectare": 1.1
+      },
+      {
+        "name": "Rapeseed & Mustard",
+        "area_million_hectares": 6.2,
+        "production_million_tons": 9.3,
+        "yield_tons_per_hectare": 1.5
+      },
+      {
+        "name": "Sunflower",
+        "area_million_hectares": 0.5,
+        "production_million_tons": 0.3,
+        "yield_tons_per_hectare": 0.6
+      },
+      {
+        "name": "Sesame",
+        "area_million_hectares": 1.6,
+        "production_million_tons": 0.8,
+        "yield_tons_per_hectare": 0.5
+      },
+      {
+        "name": "Castor Seed",
+        "area_million_hectares": 0.9,
+        "production_million_tons": 1.8,
+        "yield_tons_per_hectare": 2.0
+      },
+      {
+        "name": "Coconut",
+        "area_million_hectares": 2.1,
+        "production_million_nuts": 21,
+        "yield_nuts_per_hectare": 10000
+      },
+      {
+        "name": "Tea",
+        "area_million_hectares": 0.6,
+        "production_million_tons": 1.3,
+        "yield_tons_per_hectare": 2.2
+      },
+      {
+        "name": "Coffee",
+        "area_million_hectares": 0.4,
+        "production_million_tons": 0.32,
+        "yield_tons_per_hectare": 0.8
+      },
+      {
+        "name": "Rubber",
+        "area_million_hectares": 0.8,
+        "production_million_tons": 0.72,
+        "yield_tons_per_hectare": 0.9
+      },
+      {
+        "name": "Tobacco",
+        "area_million_hectares": 0.4,
+        "production_million_tons": 0.8,
+        "yield_tons_per_hectare": 2.0
+      },
+      {
+        "name": "Banana",
+        "area_million_hectares": 0.8,
+        "production_million_tons": 31,
+        "yield_tons_per_hectare": 38.8
+      },
+      {
+        "name": "Mango",
+        "area_million_hectares": 2.3,
+        "production_million_tons": 20,
+        "yield_tons_per_hectare": 8.7
+      },
+      {
+        "name": "Citrus",
+        "area_million_hectares": 1.1,
+        "production_million_tons": 11.4,
+        "yield_tons_per_hectare": 10.4
+      },
+      {
+        "name": "Apple",
+        "area_million_hectares": 0.3,
+        "production_million_tons": 2.7,
+        "yield_tons_per_hectare": 9.0
+      },
+      {
+        "name": "Pomegranate",
+        "area_million_hectares": 0.2,
+        "production_million_tons": 1.9,
+        "yield_tons_per_hectare": 9.5
+      },
+      {
+        "name": "Papaya",
+        "area_million_hectares": 0.1,
+        "production_million_tons": 5.8,
+        "yield_tons_per_hectare": 58
+      },
+      {
+        "name": "Pineapple",
+        "area_million_hectares": 0.1,
+        "production_million_tons": 1.8,
+        "yield_tons_per_hectare": 18.0
+      },
+      {
+        "name": "Potato",
+        "area_million_hectares": 2.1,
+        "production_million_tons": 48.6,
+        "yield_tons_per_hectare": 23.1
+      },
+      {
+        "name": "Onion",
+        "area_million_hectares": 1.5,
+        "production_million_tons": 24.2,
+        "yield_tons_per_hectare": 16.1
+      },
+      {
+        "name": "Tomato",
+        "area_million_hectares": 0.8,
+        "production_million_tons": 20,
+        "yield_tons_per_hectare": 25
+      },
+      {
+        "name": "Garlic",
+        "area_million_hectares": 0.3,
+        "production_million_tons": 1.6,
+        "yield_tons_per_hectare": 5.3
+      },
+      {
+        "name": "Chilli",
+        "area_million_hectares": 0.8,
+        "production_million_tons": 1.9,
+        "yield_tons_per_hectare": 2.4
+      },
+      {
+        "name": "Turmeric",
+        "area_million_hectares": 0.2,
+        "production_million_tons": 1.2,
+        "yield_tons_per_hectare": 6
+      },
+      {
+        "name": "Ginger",
+        "area_million_hectares": 0.2,
+        "production_million_tons": 1.8,
+        "yield_tons_per_hectare": 9
+      },
+      {
+        "name": "Cardamom",
+        "area_million_hectares": 0.1,
+        "production_million_tons": 0.02,
+        "yield_tons_per_hectare": 0.2
+      },
+      {
+        "name": "Pepper",
+        "area_million_hectares": 0.1,
+        "production_million_tons": 0.06,
+        "yield_tons_per_hectare": 0.6
+      },
+      {
+        "name": "Cashew Nut",
+        "area_million_hectares": 1.0,
+        "production_million_tons": 0.8,
+        "yield_tons_per_hectare": 0.8
+      },
+      {
+        "name": "Arecanut",
+        "area_million_hectares": 0.5,
+        "production_million_tons": 0.9,
+        "yield_tons_per_hectare": 1.8
+      },
+      {
+        "name": "Tur (Arhar)",
+        "area_million_hectares": 4.5,
+        "production_million_tons": 4.3,
+        "yield_tons_per_hectare": 1.0
+      },
+      {
+        "name": "Gram (Chickpea)",
+        "area_million_hectares": 10,
+        "production_million_tons": 11.5,
+        "yield_tons_per_hectare": 1.15
+      },
+      {
+        "name": "Lentil (Masoor)",
+        "area_million_hectares": 1.3,
+        "production_million_tons": 1.1,
+        "yield_tons_per_hectare": 0.85
+      },
+      {
+        "name": "Peas",
+        "area_million_hectares": 0.8,
+        "production_million_tons": 0.9,
+        "yield_tons_per_hectare": 1.1
+      },
+      {
+        "name": "Black Gram (Urad)",
+        "area_million_hectares": 5.4,
+        "production_million_tons": 2.9,
+        "yield_tons_per_hectare": 0.54
+      },
+      {
+        "name": "Green Gram (Moong)",
+        "area_million_hectares": 4.3,
+        "production_million_tons": 2.4,
+        "yield_tons_per_hectare": 0.56
+      },
+      {
+        "name": "Safflower",
+        "area_million_hectares": 0.2,
+        "production_million_tons": 0.1,
+        "yield_tons_per_hectare": 0.5
+      },
+      {
+        "name": "Linseed",
+        "area_million_hectares": 0.5,
+        "production_million_tons": 0.2,
+        "yield_tons_per_hectare": 0.4
+      },
+      {
+        "name": "Jute",
+        "area_million_hectares": 0.7,
+        "production_million_bales": 9.8,
+        "yield_bales_per_hectare": 14
+      },
+      {
+        "name": "Mesta",
+        "area_million_hectares": 0.1,
+        "production_million_bales": 0.3,
+        "yield_bales_per_hectare": 3
+      }
+    ]
+  }
+  

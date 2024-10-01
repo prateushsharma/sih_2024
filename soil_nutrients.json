@@ -1,0 +1,816 @@
+{
+  "Alfisols": {
+    "N": "0.15%",
+    "P": "20 ppm",
+    "K": "150 ppm",
+    "S": "25 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Andisols": {
+    "N": "0.20%",
+    "P": "15 ppm",
+    "K": "100 ppm",
+    "S": "30 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Aridisols": {
+    "N": "0.10%",
+    "P": "10 ppm",
+    "K": "75 ppm",
+    "S": "15 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Entisols": {
+    "N": "0.12%",
+    "P": "12 ppm",
+    "K": "80 ppm",
+    "S": "20 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Gelisols": {
+    "N": "0.05%",
+    "P": "8 ppm",
+    "K": "60 ppm",
+    "S": "10 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Histosols": {
+    "N": "0.25%",
+    "P": "30 ppm",
+    "K": "120 ppm",
+    "S": "30 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Inceptisols": {
+    "N": "0.18%",
+    "P": "18 ppm",
+    "K": "100 ppm",
+    "S": "25 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Mollisols": {
+    "N": "0.25%",
+    "P": "25 ppm",
+    "K": "200 ppm",
+    "S": "30 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Oxisols": {
+    "N": "0.05%",
+    "P": "5 ppm",
+    "K": "50 ppm",
+    "S": "10 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Spodosols": {
+    "N": "0.10%",
+    "P": "20 ppm",
+    "K": "90 ppm",
+    "S": "20 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Ultisols": {
+    "N": "0.12%",
+    "P": "15 ppm",
+    "K": "80 ppm",
+    "S": "22 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Vertisols": {
+    "N": "0.20%",
+    "P": "20 ppm",
+    "K": "150 ppm",
+    "S": "30 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Podzols": {
+    "N": "0.10%",
+    "P": "15 ppm",
+    "K": "70 ppm",
+    "S": "20 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Cambisols": {
+    "N": "0.15%",
+    "P": "18 ppm",
+    "K": "110 ppm",
+    "S": "25 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Andosols": {
+    "N": "0.20%",
+    "P": "12 ppm",
+    "K": "90 ppm",
+    "S": "30 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Chernozem": {
+    "N": "0.30%",
+    "P": "30 ppm",
+    "K": "200 ppm",
+    "S": "35 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Kastanozem": {
+    "N": "0.25%",
+    "P": "20 ppm",
+    "K": "150 ppm",
+    "S": "30 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Phaeozem": {
+    "N": "0.25%",
+    "P": "25 ppm",
+    "K": "180 ppm",
+    "S": "30 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Regosol": {
+    "N": "0.10%",
+    "P": "10 ppm",
+    "K": "70 ppm",
+    "S": "20 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Leptosol": {
+    "N": "0.08%",
+    "P": "8 ppm",
+    "K": "60 ppm",
+    "S": "15 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Fluvisol": {
+    "N": "0.12%",
+    "P": "15 ppm",
+    "K": "80 ppm",
+    "S": "20 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Arenosol": {
+    "N": "0.08%",
+    "P": "10 ppm",
+    "K": "60 ppm",
+    "S": "15 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Solonetz": {
+    "N": "0.10%",
+    "P": "12 ppm",
+    "K": "70 ppm",
+    "S": "18 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Gleysol": {
+    "N": "0.12%",
+    "P": "14 ppm",
+    "K": "80 ppm",
+    "S": "20 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Planosol": {
+    "N": "0.15%",
+    "P": "16 ppm",
+    "K": "90 ppm",
+    "S": "25 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Stagnosol": {
+    "N": "0.10%",
+    "P": "12 ppm",
+    "K": "70 ppm",
+    "S": "20 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Acrisols": {
+    "N": "0.12%",
+    "P": "18 ppm",
+    "K": "80 ppm",
+    "S": "22 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Luvisol": {
+    "N": "0.15%",
+    "P": "20 ppm",
+    "K": "120 ppm",
+    "S": "25 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Nitisol": {
+    "N": "0.18%",
+    "P": "22 ppm",
+    "K": "130 ppm",
+    "S": "28 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Silty Soil": {
+    "N": "0.20%",
+    "P": "25 ppm",
+    "K": "110 ppm",
+    "S": "28 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Clay Soil": {
+    "N": "0.15%",
+    "P": "20 ppm",
+    "K": "140 ppm",
+    "S": "30 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Loamy Soil": {
+    "N": "0.25%",
+    "P": "30 ppm",
+    "K": "150 ppm",
+    "S": "35 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Sandy Soil": {
+    "N": "0.08%",
+    "P": "10 ppm",
+    "K": "60 ppm",
+    "S": "15 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Peaty Soil": {
+    "N": "0.30%",
+    "P": "20 ppm",
+    "K": "100 ppm",
+    "S": "35 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Saline Soil": {
+    "N": "0.10%",
+    "P": "12 ppm",
+    "K": "70 ppm",
+    "S": "20 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Acid Soil": {
+    "N": "0.12%",
+    "P": "15 ppm",
+    "K": "80 ppm",
+    "S": "22 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Basic Soil": {
+    "N": "0.18%",
+    "P": "20 ppm",
+    "K": "120 ppm",
+    "S": "25 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Alkaline Soil": {
+    "N": "0.15%",
+    "P": "18 ppm",
+    "K": "110 ppm",
+    "S": "23 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Eutric Soil": {
+    "N": "0.20%",
+    "P": "25 ppm",
+    "K": "140 ppm",
+    "S": "30 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Hydromorphic Soil": {
+    "N": "0.10%",
+    "P": "12 ppm",
+    "K": "60 ppm",
+    "S": "20 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Chalky Soil": {
+    "N": "0.15%",
+    "P": "18 ppm",
+    "K": "100 ppm",
+    "S": "25 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Forest Soil": {
+    "N": "0.12%",
+    "P": "20 ppm",
+    "K": "90 ppm",
+    "S": "22 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Grassland Soil": {
+    "N": "0.20%",
+    "P": "22 ppm",
+    "K": "130 ppm",
+    "S": "28 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Wetland Soil": {
+    "N": "0.25%",
+    "P": "25 ppm",
+    "K": "150 ppm",
+    "S": "30 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Desert Soil": {
+    "N": "0.08%",
+    "P": "8 ppm",
+    "K": "50 ppm",
+    "S": "10 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Alluvial Soil": {
+    "N": "0.15%",
+    "P": "20 ppm",
+    "K": "100 ppm",
+    "S": "25 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Brown Soil": {
+    "N": "0.12%",
+    "P": "18 ppm",
+    "K": "90 ppm",
+    "S": "22 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Red Soil": {
+    "N": "0.10%",
+    "P": "15 ppm",
+    "K": "70 ppm",
+    "S": "20 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Black Soil": {
+    "N": "0.20%",
+    "P": "25 ppm",
+    "K": "150 ppm",
+    "S": "30 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "White Soil": {
+    "N": "0.05%",
+    "P": "10 ppm",
+    "K": "50 ppm",
+    "S": "10 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Grey Soil": {
+    "N": "0.10%",
+    "P": "15 ppm",
+    "K": "60 ppm",
+    "S": "20 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Brown Forest Soil": {
+    "N": "0.18%",
+    "P": "20 ppm",
+    "K": "120 ppm",
+    "S": "30 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Gray Forest Soil": {
+    "N": "0.15%",
+    "P": "18 ppm",
+    "K": "100 ppm",
+    "S": "25 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Limestone Soil": {
+    "N": "0.12%",
+    "P": "12 ppm",
+    "K": "80 ppm",
+    "S": "22 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Silt Loam Soil": {
+    "N": "0.20%",
+    "P": "22 ppm",
+    "K": "110 ppm",
+    "S": "28 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Clay Loam Soil": {
+    "N": "0.15%",
+    "P": "18 ppm",
+    "K": "130 ppm",
+    "S": "30 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Sand Loam Soil": {
+    "N": "0.10%",
+    "P": "15 ppm",
+    "K": "70 ppm",
+    "S": "20 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Peat Moss Soil": {
+    "N": "0.25%",
+    "P": "20 ppm",
+    "K": "100 ppm",
+    "S": "35 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Vermiculite Soil": {
+    "N": "0.12%",
+    "P": "18 ppm",
+    "K": "80 ppm",
+    "S": "25 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Perlite Soil": {
+    "N": "0.08%",
+    "P": "10 ppm",
+    "K": "60 ppm",
+    "S": "15 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Coarse Sand Soil": {
+    "N": "0.05%",
+    "P": "8 ppm",
+    "K": "50 ppm",
+    "S": "10 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Fine Sand Soil": {
+    "N": "0.10%",
+    "P": "12 ppm",
+    "K": "70 ppm",
+    "S": "20 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Loess Soil": {
+    "N": "0.15%",
+    "P": "18 ppm",
+    "K": "90 ppm",
+    "S": "25 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Gypsum Soil": {
+    "N": "0.12%",
+    "P": "15 ppm",
+    "K": "80 ppm",
+    "S": "22 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Carbonate Soil": {
+    "N": "0.10%",
+    "P": "10 ppm",
+    "K": "70 ppm",
+    "S": "20 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Brown Podzolic Soil": {
+    "N": "0.15%",
+    "P": "20 ppm",
+    "K": "90 ppm",
+    "S": "25 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Red Podzolic Soil": {
+    "N": "0.12%",
+    "P": "18 ppm",
+    "K": "80 ppm",
+    "S": "22 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Yellow Podzolic Soil": {
+    "N": "0.18%",
+    "P": "22 ppm",
+    "K": "100 ppm",
+    "S": "30 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Grey Podzolic Soil": {
+    "N": "0.20%",
+    "P": "25 ppm",
+    "K": "110 ppm",
+    "S": "35 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Silt Soil": {
+    "N": "0.12%",
+    "P": "15 ppm",
+    "K": "70 ppm",
+    "S": "20 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Loamy Sand Soil": {
+    "N": "0.10%",
+    "P": "12 ppm",
+    "K": "60 ppm",
+    "S": "15 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Peat Soil": {
+    "N": "0.30%",
+    "P": "30 ppm",
+    "K": "120 ppm",
+    "S": "35 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Marsh Soil": {
+    "N": "0.25%",
+    "P": "20 ppm",
+    "K": "100 ppm",
+    "S": "30 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Swamp Soil": {
+    "N": "0.28%",
+    "P": "22 ppm",
+    "K": "110 ppm",
+    "S": "32 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Floodplain Soil": {
+    "N": "0.18%",
+    "P": "20 ppm",
+    "K": "90 ppm",
+    "S": "28 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Terrace Soil": {
+    "N": "0.20%",
+    "P": "22 ppm",
+    "K": "100 ppm",
+    "S": "30 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Mountain Soil": {
+    "N": "0.12%",
+    "P": "15 ppm",
+    "K": "80 ppm",
+    "S": "25 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Hill Soil": {
+    "N": "0.15%",
+    "P": "18 ppm",
+    "K": "90 ppm",
+    "S": "28 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Plateau Soil": {
+    "N": "0.20%",
+    "P": "22 ppm",
+    "K": "100 ppm",
+    "S": "30 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Coastal Soil": {
+    "N": "0.10%",
+    "P": "12 ppm",
+    "K": "60 ppm",
+    "S": "20 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Estuarine Soil": {
+    "N": "0.15%",
+    "P": "18 ppm",
+    "K": "80 ppm",
+    "S": "25 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Deltaic Soil": {
+    "N": "0.20%",
+    "P": "22 ppm",
+    "K": "90 ppm",
+    "S": "30 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Riverine Soil": {
+    "N": "0.18%",
+    "P": "20 ppm",
+    "K": "85 ppm",
+    "S": "28 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Tropical Soil": {
+    "N": "0.15%",
+    "P": "20 ppm",
+    "K": "110 ppm",
+    "S": "30 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Sub-Tropical Soil": {
+    "N": "0.20%",
+    "P": "22 ppm",
+    "K": "120 ppm",
+    "S": "32 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Semi-Arid Soil": {
+    "N": "0.10%",
+    "P": "15 ppm",
+    "K": "70 ppm",
+    "S": "22 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Arid Soil": {
+    "N": "0.08%",
+    "P": "12 ppm",
+    "K": "60 ppm",
+    "S": "20 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Tundra Soil": {
+    "N": "0.05%",
+    "P": "8 ppm",
+    "K": "50 ppm",
+    "S": "15 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Desertification Soil": {
+    "N": "0.08%",
+    "P": "10 ppm",
+    "K": "60 ppm",
+    "S": "18 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Sedimentary Soil": {
+    "N": "0.12%",
+    "P": "15 ppm",
+    "K": "80 ppm",
+    "S": "20 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Volcanic Soil": {
+    "N": "0.18%",
+    "P": "20 ppm",
+    "K": "120 ppm",
+    "S": "28 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Glacial Soil": {
+    "N": "0.15%",
+    "P": "18 ppm",
+    "K": "100 ppm",
+    "S": "25 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Marine Soil": {
+    "N": "0.10%",
+    "P": "12 ppm",
+    "K": "70 ppm",
+    "S": "22 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Oceanic Soil": {
+    "N": "0.12%",
+    "P": "15 ppm",
+    "K": "80 ppm",
+    "S": "25 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Littoral Soil": {
+    "N": "0.20%",
+    "P": "20 ppm",
+    "K": "100 ppm",
+    "S": "30 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Hilly Soil": {
+    "N": "0.15%",
+    "P": "18 ppm",
+    "K": "90 ppm",
+    "S": "28 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Saline-Alkaline Soil": {
+    "N": "0.10%",
+    "P": "12 ppm",
+    "K": "70 ppm",
+    "S": "22 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Acid Sulphate Soil": {
+    "N": "0.05%",
+    "P": "8 ppm",
+    "K": "50 ppm",
+    "S": "15 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Limestone Land Soil": {
+    "N": "0.12%",
+    "P": "15 ppm",
+    "K": "80 ppm",
+    "S": "22 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Red-Yellow Soil": {
+    "N": "0.20%",
+    "P": "25 ppm",
+    "K": "100 ppm",
+    "S": "30 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Dark Soil": {
+    "N": "0.18%",
+    "P": "20 ppm",
+    "K": "120 ppm",
+    "S": "28 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Sandy Clay Soil": {
+    "N": "0.12%",
+    "P": "18 ppm",
+    "K": "90 ppm",
+    "S": "25 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Loam Sand Soil": {
+    "N": "0.10%",
+    "P": "12 ppm",
+    "K": "70 ppm",
+    "S": "20 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Yellow Soil": {
+    "N": "0.15%",
+    "P": "20 ppm",
+    "K": "110 ppm",
+    "S": "30 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Red-Brown Soil": {
+    "N": "0.20%",
+    "P": "22 ppm",
+    "K": "130 ppm",
+    "S": "32 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Black Cotton Soil": {
+    "N": "0.25%",
+    "P": "25 ppm",
+    "K": "150 ppm",
+    "S": "35 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Red-Brown Forest Soil": {
+    "N": "0.18%",
+    "P": "20 ppm",
+    "K": "120 ppm",
+    "S": "30 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Brown-Podzol Soil": {
+    "N": "0.15%",
+    "P": "18 ppm",
+    "K": "100 ppm",
+    "S": "28 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Dryland Soil": {
+    "N": "0.10%",
+    "P": "12 ppm",
+    "K": "70 ppm",
+    "S": "20 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Semi-Arid Red Soil": {
+    "N": "0.15%",
+    "P": "20 ppm",
+    "K": "110 ppm",
+    "S": "25 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Alluvial Plain Soil": {
+    "N": "0.20%",
+    "P": "22 ppm",
+    "K": "130 ppm",
+    "S": "30 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Waterlogged Soil": {
+    "N": "0.12%",
+    "P": "15 ppm",
+    "K": "80 ppm",
+    "S": "25 ppm",
+
+
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Swampy Marsh Soil": {
+    "N": "0.20%",
+    "P": "20 ppm",
+    "K": "90 ppm",
+    "S": "30 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Mountain Forest Soil": {
+    "N": "0.15%",
+    "P": "18 ppm",
+    "K": "100 ppm",
+    "S": "28 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Hill Forest Soil": {
+    "N": "0.12%",
+    "P": "15 ppm",
+    "K": "80 ppm",
+    "S": "22 ppm",
+    "Micronutrients": ["Zn", "Cu"]
+  },
+  "Luvisols": {
+    "N": "0.15%",
+    "P": "20 ppm",
+    "K": "120 ppm",
+    "S": "10 ppm",
+    "Micronutrients": ["Zn", "Cu", "B", "Mo"]
+  }
+}

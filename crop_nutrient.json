@@ -1,0 +1,746 @@
+{
+  "Rice": {
+    "N": "1.7%",
+    "P": "0.5%",
+    "K": "1.0%",
+    "S": "0.2%",
+    "Micronutrients": ["Zn", "Fe", "Mn", "Cu"]
+  },
+  "Wheat": {
+    "N": "2.5%",
+    "P": "0.8%",
+    "K": "1.5%",
+    "S": "0.2%",
+    "Micronutrients": ["Zn", "Cu", "Mn", "B"]
+  },
+  "Corn": {
+    "N": "2.0%",
+    "P": "0.6%",
+    "K": "1.0%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "B"]
+  },
+  "Barley": {
+    "N": "2.0%",
+    "P": "0.6%",
+    "K": "1.2%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "B"]
+  },
+  "Millets": {
+    "N": "1.5%",
+    "P": "0.5%",
+    "K": "1.0%",
+    "S": "0.2%",
+    "Micronutrients": ["Zn", "Fe", "Mn", "Cu"]
+  },
+  "Pulses": {
+    "N": "3.0%",
+    "P": "0.6%",
+    "K": "1.0%",
+    "S": "0.4%",
+    "Micronutrients": ["Zn", "Fe", "Mn", "Cu"]
+  },
+  "Soybean": {
+    "N": "3.5%",
+    "P": "0.8%",
+    "K": "1.2%",
+    "S": "0.4%",
+    "Micronutrients": ["Zn", "Fe", "Mn", "Cu"]
+  },
+  "Groundnut": {
+    "N": "3.0%",
+    "P": "0.7%",
+    "K": "1.0%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Fe", "Cu"]
+  },
+  "Cotton": {
+    "N": "2.5%",
+    "P": "0.6%",
+    "K": "1.0%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "B"]
+  },
+  "Sugarcane": {
+    "N": "1.5%",
+    "P": "0.5%",
+    "K": "1.0%",
+    "S": "0.2%",
+    "Micronutrients": ["Zn", "Mn", "Fe", "Cu"]
+  },
+  "Jute": {
+    "N": "2.0%",
+    "P": "0.6%",
+    "K": "1.0%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Tobacco": {
+    "N": "2.5%",
+    "P": "0.7%",
+    "K": "1.2%",
+    "S": "0.4%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Tea": {
+    "N": "2.5%",
+    "P": "0.7%",
+    "K": "1.0%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Coffee": {
+    "N": "2.5%",
+    "P": "0.6%",
+    "K": "1.1%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Chili": {
+    "N": "2.0%",
+    "P": "0.5%",
+    "K": "1.0%",
+    "S": "0.2%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Onion": {
+    "N": "1.8%",
+    "P": "0.5%",
+    "K": "0.9%",
+    "S": "0.2%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Garlic": {
+    "N": "1.5%",
+    "P": "0.5%",
+    "K": "0.8%",
+    "S": "0.2%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Tomato": {
+    "N": "2.0%",
+    "P": "0.6%",
+    "K": "1.0%",
+    "S": "0.2%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Brinjal": {
+    "N": "2.0%",
+    "P": "0.5%",
+    "K": "1.0%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Cauliflower": {
+    "N": "1.5%",
+    "P": "0.5%",
+    "K": "0.8%",
+    "S": "0.2%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Cabbage": {
+    "N": "1.8%",
+    "P": "0.6%",
+    "K": "0.9%",
+    "S": "0.2%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Spinach": {
+    "N": "2.0%",
+    "P": "0.6%",
+    "K": "1.1%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Lettuce": {
+    "N": "1.5%",
+    "P": "0.5%",
+    "K": "0.8%",
+    "S": "0.2%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Peas": {
+    "N": "2.5%",
+    "P": "0.7%",
+    "K": "1.0%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Beans": {
+    "N": "2.5%",
+    "P": "0.6%",
+    "K": "1.1%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Lentils": {
+    "N": "3.0%",
+    "P": "0.8%",
+    "K": "1.2%",
+    "S": "0.4%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Chickpeas": {
+    "N": "3.0%",
+    "P": "0.8%",
+    "K": "1.2%",
+    "S": "0.4%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Mustard": {
+    "N": "2.0%",
+    "P": "0.6%",
+    "K": "1.0%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Sunflower": {
+    "N": "2.5%",
+    "P": "0.8%",
+    "K": "1.2%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Groundnut": {
+    "N": "3.0%",
+    "P": "0.7%",
+    "K": "1.0%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Fe", "Cu"]
+  },
+  "Sesame": {
+    "N": "2.5%",
+    "P": "0.7%",
+    "K": "1.0%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Safflower": {
+    "N": "2.0%",
+    "P": "0.6%",
+    "K": "1.0%",
+    "S": "0.2%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Canola": {
+    "N": "2.5%",
+    "P": "0.7%",
+
+
+    "K": "1.1%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Tobacco": {
+    "N": "2.5%",
+    "P": "0.7%",
+    "K": "1.2%",
+    "S": "0.4%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Sugarcane": {
+    "N": "1.5%",
+    "P": "0.5%",
+    "K": "1.0%",
+    "S": "0.2%",
+    "Micronutrients": ["Zn", "Mn", "Fe", "Cu"]
+  },
+  "Tea": {
+    "N": "2.5%",
+    "P": "0.7%",
+    "K": "1.0%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Coffee": {
+    "N": "2.5%",
+    "P": "0.6%",
+    "K": "1.1%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Jute": {
+    "N": "2.0%",
+    "P": "0.6%",
+    "K": "1.0%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Cotton": {
+    "N": "2.5%",
+    "P": "0.6%",
+    "K": "1.0%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Jowar": {
+    "N": "2.0%",
+    "P": "0.6%",
+    "K": "1.0%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Bajra": {
+    "N": "2.0%",
+    "P": "0.6%",
+    "K": "1.0%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Ragi": {
+    "N": "2.0%",
+    "P": "0.7%",
+    "K": "1.1%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Pearl Millet": {
+    "N": "2.0%",
+    "P": "0.6%",
+    "K": "1.0%",
+    "S": "0.2%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Finger Millet": {
+    "N": "2.0%",
+    "P": "0.7%",
+    "K": "1.1%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Sorghum": {
+    "N": "2.0%",
+    "P": "0.6%",
+    "K": "1.0%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Peanuts": {
+    "N": "3.0%",
+    "P": "0.7%",
+    "K": "1.0%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Fe", "Cu"]
+  },
+  "Soybean": {
+    "N": "3.5%",
+    "P": "0.8%",
+    "K": "1.2%",
+    "S": "0.4%",
+    "Micronutrients": ["Zn", "Fe", "Mn", "Cu"]
+  },
+  "Chickpeas": {
+    "N": "3.0%",
+    "P": "0.8%",
+    "K": "1.2%",
+    "S": "0.4%",
+    "Micronutrients": ["Zn", "Fe", "Mn", "Cu"]
+  },
+  "Lentils": {
+    "N": "3.0%",
+    "P": "0.8%",
+    "K": "1.2%",
+    "S": "0.4%",
+    "Micronutrients": ["Zn", "Fe", "Mn", "Cu"]
+  },
+  "Pulses": {
+    "N": "3.0%",
+    "P": "0.6%",
+    "K": "1.0%",
+    "S": "0.4%",
+    "Micronutrients": ["Zn", "Fe", "Mn", "Cu"]
+  },
+  "Mung Bean": {
+    "N": "3.0%",
+    "P": "0.8%",
+    "K": "1.2%",
+    "S": "0.4%",
+    "Micronutrients": ["Zn", "Fe", "Mn", "Cu"]
+  },
+  "Black Gram": {
+    "N": "3.0%",
+    "P": "0.7%",
+    "K": "1.2%",
+    "S": "0.4%",
+    "Micronutrients": ["Zn", "Fe", "Mn", "Cu"]
+  },
+  "Green Gram": {
+    "N": "3.0%",
+    "P": "0.7%",
+    "K": "1.2%",
+    "S": "0.4%",
+    "Micronutrients": ["Zn", "Fe", "Mn", "Cu"]
+  },
+  "Red Gram": {
+    "N": "3.0%",
+    "P": "0.8%",
+    "K": "1.2%",
+    "S": "0.4%",
+    "Micronutrients": ["Zn", "Fe", "Mn", "Cu"]
+  },
+  "Pigeon Pea": {
+    "N": "3.0%",
+    "P": "0.8%",
+    "K": "1.2%",
+    "S": "0.4%",
+    "Micronutrients": ["Zn", "Fe", "Mn", "Cu"]
+  },
+  "Horse Gram": {
+    "N": "3.0%",
+    "P": "0.8%",
+    "K": "1.2%",
+    "S": "0.4%",
+    "Micronutrients": ["Zn", "Fe", "Mn", "Cu"]
+  },
+  "Fenugreek": {
+    "N": "2.5%",
+    "P": "0.7%",
+    "K": "1.0%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Fe", "Mn", "Cu"]
+  },
+  "Mustard": {
+    "N": "2.5%",
+    "P": "0.7%",
+    "K": "1.1%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Fe", "Mn", "Cu"]
+  },
+  "Rape Seed": {
+    "N": "2.5%",
+    "P": "0.7%",
+    "K": "1.0%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Fe", "Mn", "Cu"]
+  },
+  "Sunflower": {
+    "N": "2.5%",
+    "P": "0.8%",
+    "K": "1.2%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Safflower": {
+    "N": "2.0%",
+    "P": "0.6%",
+    "K": "1.0%",
+    "S": "0.2%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Sesame": {
+    "N": "2.5%",
+    "P": "0.7%",
+    "K": "1.0%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Sorghum": {
+    "N": "2.0%",
+    "P": "0.6%",
+    "K": "1.0%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Millets": {
+    "N": "2.0%",
+    "P": "0.6%",
+    "K": "1.0%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Ragi": {
+    "N": "2.0%",
+    "P": "0.7%",
+    "K": "1.1%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Pearl Millet": {
+    "N": "2.0%",
+    "P": "0.6%",
+    "K": "1.0%",
+    "S": "0.2%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Finger Millet": {
+    "N": "2.0%",
+    "P": "0.7%",
+    "K": "1.1%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Bajra": {
+    "N": "2.0%",
+    "P": "0.6%",
+    "K": "1.0%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Jowar": {
+    "N": "2.0%",
+    "P": "0.6%",
+    "K": "1.0%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Tobacco": {
+    "N": "2.5%",
+    "P": "0.7%",
+    "K": "1.2%",
+    "S": "0.4%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Tea": {
+    "N": "2.5%",
+    "P": "0.7%",
+    "K": "1.0%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Coffee": {
+    "N": "2.5%",
+    "P": "0.6%",
+    "K": "1.1%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Jute": {
+    "N": "2.0%",
+    "P": "0.6%",
+    "K": "1.0%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Cotton": {
+    "N": "2.5%",
+    "P": "0.6%",
+    "K": "1.0%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Bitter Gourd": {
+    "N": "1.5%",
+    "P": "0.4%",
+    "K": "0.6%",
+    "S": "0.2%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Pumpkin": {
+    "N": "1.8%",
+    "P": "0.5%",
+    "K": "0.8%",
+    "S": "0.2%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Bottle Gourd": {
+    "N": "1.5%",
+    "P": "0.4%",
+    "K": "0.7%",
+    "S": "0.2%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Cucumber": {
+    "N": "1.5%",
+    "P": "0.4%",
+    "K": "0.6%",
+    "S": "0.2%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Okra": {
+    "N": "2.0%",
+    "P": "0.5%",
+    "K": "1.0%",
+    "S": "0.2%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Radish": {
+    "N": "1.5%",
+    "P": "0.5%",
+    "K": "0.8%",
+    "S": "0.2%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Carrot": {
+    "N": "1.8%",
+    "P": "0.5%",
+    "K": "0.9%",
+    "S": "0.2%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Beetroot": {
+    "N": "1.8%",
+    "P": "0.5%",
+    "K": "0.9%",
+    "S": "0.2%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Sweet Potato": {
+    "N": "1.5%",
+    "P": "0.5%",
+    "K": "0.7%",
+    "S": "0.2%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Potato": {
+    "N": "1.8%",
+    "P": "0.5%",
+    "K": "0.9%",
+    "S": "0.2%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Ginger": {
+    "N": "2.0%",
+    "P": "0.6%",
+    "K": "1.0%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Turmeric": {
+    "N": "2.0%",
+    "P": "0.6%",
+    "K": "1.0%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Coriander": {
+    "N": "2.0%",
+    "P": "0.5%",
+    "K": "0.8%",
+    "S": "0.2%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Fennel": {
+    "N": "2.0%",
+    "P": "0.5%",
+    "K": "0.8%",
+    "S": "0.2%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Fenugreek": {
+    "N": "2.5%",
+    "P": "0.7%",
+    "K": "1.0%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Cabbage": {
+    "N": "1.8%",
+    "P": "0.6%",
+    "K": "0.9%",
+    "S": "0.2%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Cauliflower": {
+    "N": "1.8%",
+    "P": "0.5%",
+    "K": "0.8%",
+    "S": "0.2%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Broccoli": {
+    "N": "1.8%",
+    "P": "0.6%",
+    "K": "0.9%",
+    "S": "0.2%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Peas": {
+    "N": "2.5%",
+    "P": "0.7%",
+    "K": "1.0%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Green Beans": {
+    "N": "2.5%",
+    "P": "0.6%",
+    "K": "1.1%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Lentils": {
+    "N": "3.0%",
+    "P": "0.8%",
+    "K": "1.2%",
+    "S": "0.4%",
+    "Micronutrients": ["Zn", "Fe", "Mn", "Cu"]
+  },
+  "Chickpeas": {
+    "N": "3.0%",
+    "P": "0.8%",
+    "K": "1.2%",
+    "S": "0.4%",
+    "Micronutrients": ["Zn", "Fe", "Mn", "Cu"]
+  },
+  "Soybean": {
+    "N": "3.5%",
+    "P": "0.8%",
+    "K": "1.2%",
+    "S": "0.4%",
+    "Micronutrients": ["Zn", "Fe", "Mn", "Cu"]
+  },
+  "Sunflower": {
+    "N": "2.5%",
+    "P": "0.8%",
+    "K": "1.2%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  },
+  "Peanuts": {
+    "N": "3.0%",
+    "P": "0.7%",
+    "K": "1.0%",
+    "S": "0.3%",
+    "Micronutrients": ["Zn", "Mn", "Fe", "Cu"]
+  },
+  "Pulses": {
+    "N": "3.0%",
+    "P": "0.6%",
+    "K": "1.0%",
+    "S": "0.4%",
+    "Micronutrients": ["Zn", "Fe", "Mn", "Cu"]
+  },
+  "Green Gram": {
+    "N": "3.0%",
+    "P": "0.7%",
+    "K": "1.2%",
+    "S": "0.4%",
+    "Micronutrients": ["Zn", "Fe", "Mn", "Cu"]
+  },
+  "Black Gram": {
+    "N": "3.0%",
+    "P": "0.7%",
+    "K": "1.2%",
+    "S": "0.4%",
+    "Micronutrients": ["Zn", "Fe", "Mn", "Cu"]
+  },
+  "Red Gram": {
+    "N": "3.0%",
+    "P": "0.8%",
+    "K": "1.2%",
+    "S": "0.4%",
+    "Micronutrients": ["Zn", "Fe", "Mn", "Cu"]
+  },
+  "Pigeon Pea": {
+    "N": "3.0%",
+    "P": "0.8%",
+    "K": "1.2%",
+    "S": "0.4%",
+    "Micronutrients": ["Zn", "Fe", "Mn", "Cu"]
+  },
+  "Horse Gram": {
+    "N": "3.0%",
+    "P": "0.8%",
+    "K": "1.2%",
+    "S": "0.4%",
+    "Micronutrients": ["Zn", "Fe", "Mn", "Cu"]
+  },
+  "Coriander": {
+    "N": "2.0%",
+    "P": "0.5%",
+    "K": "0.8%",
+    "S": "0.2%",
+    "Micronutrients": ["Zn", "Mn", "Cu", "Fe"]
+  }
+}
